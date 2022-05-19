@@ -1,6 +1,4 @@
-*{
-    text-transform: capitalize;
-}
+
 main{
     text-align: center;
     width: 100%;
@@ -22,15 +20,85 @@ h1{
 
 }
 
-.cantainer{
+
+.b{
+    background-color: white;
+}
+.c{
+    border-color: lightseagreen;
+    border-style: solid;
+    border-width: 15px;
+    margin-top: 40px;
+    margin-left: 100px;
+    box-shadow: 10px 10px 10px black;
+}
+.d{
+    border-color: lightseagreen;
+    border-style: dashed;
+    border-width: 15px;
+    margin-top: 40px;
+    margin-left: 100px;
+    box-shadow: 10px 10px 10px black;
+}
+.e{
+    border-color: lightseagreen;
+    border-style: dotted;
+    border-width: 15px;
+    margin-top: 40px;
+    margin-left: 100px;
+    box-shadow: 10px 10px 10px black;
+}
+.f{
+    border-color: lightseagreen;
+    border-style:groove;
+    border-width: 15px;
+    margin-top: 60px;
+    margin-left: 300px;
+    box-shadow: 10px 10px 10px black;
+}
+.g{
+    border-color: lightseagreen;
+    border-style:groove;
+    border-width: 15px;
+    margin-top: 60px;
+    margin-left: 100px;
+    box-shadow: 10px 10px 10px black;
+}
+.h{
+    border-color: lightseagreen;
+    border-style:double;
+    border-width: 15px;
+    margin-top: 60px;
+    margin-left: 300px;
+    box-shadow: 10px 10px 10px black;
+}
+.i{
+    border-color: rgb(245, 5, 41);
+    border-style:double;
+    border-width: 15px;
+    margin-top: 60px;
+    margin-left: 100px;
+    box-shadow: 10px 10px 10px black;
+}
+
+
+.x{
+    height: 200px;
+    width: 1000px;
+    background-color: lightseagreen;
+    color: white;
     text-align: center;
-    color: blanchedalmond;
-    background-color: rgb(32, 176, 201);
-    width: 50%;
-    padding: 50px 50px;
-    margin:50px 50px;
-    font-style: italic;
-    font-weight: bold;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin: 30px 30px ;
+    border-top-color: green;
+    border-bottom-color: blue;
+    border-left-color: red;
+    border-right-color: violet;
+    border-style: solid;
+    border-width: 10px;
+    overflow: auto;
 
 }
 
